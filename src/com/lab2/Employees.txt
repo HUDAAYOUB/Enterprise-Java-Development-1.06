@@ -1,0 +1,7 @@
+ Employee{name='Huda Ayoub', email='Hud@htm.com', age=25, salary=20010}
+ Employee{name='Rawan Ayoub', email='rwn@htm.com', age=30, salary=20200}
+ Intern{MAX_SALARY=20000}
+ Employee{name='Elian White', email='shr@htm.com', age=27, salary=20600}
+ Employee{name='Ruba Abdullah', email='ruba@htm.com', age=29, salary=20050}
+ Employee{name='Reema Yousef', email='reema@htm.com', age=26, salary=20030}
+ Intern{MAX_SALARY=20000}
